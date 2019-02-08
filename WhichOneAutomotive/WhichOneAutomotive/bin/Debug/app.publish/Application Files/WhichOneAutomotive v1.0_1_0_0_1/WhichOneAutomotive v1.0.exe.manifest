@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WhichOneAutomotive v1.0.exe" version="1.0.0.1" publicKeyToken="130bc3e43211ca56" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Cemagraphics-Classic-Cars-Vw-beetle.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WhichOneAutomotive v1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WhichOneAutomotive v1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WhichOneAutomotive v1.0.exe" size="463832">
+      <assemblyIdentity name="WhichOneAutomotive v1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vGnSwhRpNfx9Dhdtofq+LQfZErRcvLctWxYxAruEQsk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Cemagraphics-Classic-Cars-Vw-beetle.ico" size="220388">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>P24Co54/elgYwnKZALAOkxn0Y+/lxFyMVIoNumN1TJU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WhichOneAutomotive v1.0.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ASUS-ZENBOOK\Даниел" issuerKeyHash="85d471528e16c71e3ce6528f5504bdcb6cc06f72" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wvtncXSCV99pEpeje6fq9k7hx3Yn437n1KDp8joqIYg=</DigestValue></Reference></SignedInfo><SignatureValue>XxXl0by+0FPXPIfAXTz5ydbz1nDangu3tppImvAkmJ107nE0e5v9ojljAp6wm72HpsTHOBlxLDYZq9EN8Fq7a1T6xEw3feObhsVxfpJaBU9t0VL5SiVfCKbrNXy2sR+XIfN8/2A4Q78g+La8k5QvTus7LsedydwscDpHSlV+0GY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0joyzvOgOsmmW8X4BI1BPCILEKdW5FZDpXqHYdWX/xTo3LUG1Nz2c0rYTDoJLYZIjIzyeNulTxx2Wes/AulVzega+h+FvAVqmNX4nzH8cvXbmKpy1d77M8HuJye31vJuQe6X5B5W8HEvJhn/9Enci/PbyHxdoWRPqi6iOnXJGBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="88212a3af2e9a0d4e77ee32776c7e14ef6eaa77ba3971269df5782747167fbc2" Description="" Url=""><as:assemblyIdentity name="WhichOneAutomotive v1.0.exe" version="1.0.0.1" publicKeyToken="130bc3e43211ca56" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ASUS-ZENBOOK\Даниел</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MMjxf5PqkYw1Da1C3BI25d7INTAt7TDZ91IE3WCzB5Y=</DigestValue></Reference></SignedInfo><SignatureValue>fuNRH3/V2t1BlMr1/A5SOmSUUuWMjuoPaciugmXbgpwUmieu5DSGnaFwkLkHSjUjYqbcY6Hxif4xzHujnPBcK11PowmtY9yRSdEZF1Ul3X+e3Cg2mx7G+xUEfWiQpw5+C2MS18F50dmwgYYfBOBs0nGfKGrhZ1KUkkqLPfjIvI4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0joyzvOgOsmmW8X4BI1BPCILEKdW5FZDpXqHYdWX/xTo3LUG1Nz2c0rYTDoJLYZIjIzyeNulTxx2Wes/AulVzega+h+FvAVqmNX4nzH8cvXbmKpy1d77M8HuJye31vJuQe6X5B5W8HEvJhn/9Enci/PbyHxdoWRPqi6iOnXJGBE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQepFar/fBObFEO06uK7f6MzANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYAQQBTAFUAUwAtAFoARQBOAEIATwBPAEsAXAQUBDAEPQQ4BDUEOzAeFw0xODAzMDYxMTM4MjBaFw0xOTAzMDYxNzM4MjBaMDExLzAtBgNVBAMeJgBBAFMAVQBTAC0AWgBFAE4AQgBPAE8ASwBcBBQEMAQ9BDgENQQ7MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSOjLO86A6yaZbxfgEjUE8IgsQp1bkVkOleodh1Zf/FOjctQbU3PZzSthMOgkthkiMjPJ426VPHHZZ6z8C6VXN6Br6H4W8BWqY1fifMfxy9duYqnLV3vszwe4nJ7fW8m5B7pfkHlbwcS8mGf/0SdyL89vIfF2hZE+qLqI6dckYEQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJO29WOeDA4evj4K2rHP0C9c24X1Yp8MhRWeFkJdgJv+k1i7LqkfL4sJ9tQhV6Lq0WCB2oumuz/Q+tbk5muRaVLzyt9nTw2yGZz/icTLapGXLJshg1idSJFIUgaazOMy5OAx25EHmd9YclZt+Qt0kxnjmFW8tkMapczYB190lu3+</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

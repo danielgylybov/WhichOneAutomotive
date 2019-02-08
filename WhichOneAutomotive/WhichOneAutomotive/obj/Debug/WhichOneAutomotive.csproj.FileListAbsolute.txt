@@ -1,0 +1,13 @@
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive.csprojResolveAssemblyReference.cache
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive.Form1.resources
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive.Properties.Resources.resources
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive.csproj.GenerateResource.Cache
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\bin\Debug\WhichOneAutomotive v1.0.exe.config
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\bin\Debug\WhichOneAutomotive v1.0.exe.manifest
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\bin\Debug\WhichOneAutomotive v1.0.application
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\bin\Debug\WhichOneAutomotive v1.0.exe
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\bin\Debug\WhichOneAutomotive v1.0.pdb
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive v1.0.exe.manifest
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive v1.0.application
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive v1.0.exe
+c:\users\даниел\documents\visual studio 2017\Projects\WhichOneAutomotive\WhichOneAutomotive\obj\Debug\WhichOneAutomotive v1.0.pdb
